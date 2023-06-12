@@ -1,0 +1,1 @@
+java -cp C:\Work\Java\EMS.Jar\ems.jar;C:\Work\Java\ojdbc8-12.2.0.1.jar; -Xmx50m -Xms50m -Xmn20m -XX:PermSize=20m -XX:+UseParallelGC com.dal.view.MainClass
